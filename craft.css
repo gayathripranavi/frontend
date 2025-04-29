@@ -183,14 +183,23 @@ margin-bottom: 15px;
     font-style: italic;
 
 }
-.service-itemm{
-    margin-right: ;
+
+.contact-itemm i
+{
+    font-size: 1.5rem;
+    color: #e87532;
+    margin-bottom: 10px;
+   
+    font-style: italic;
+
 }
-
-
-
-
-
+.pmargin
+{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 1.25rem;
+    font-weight: 300;
+}
 
 
 
